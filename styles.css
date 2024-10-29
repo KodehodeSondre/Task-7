@@ -164,7 +164,7 @@ header {
 .greystretch {
     min-height: 1650px;
     background-color: white;
-    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("bakrunninfo.jpg");
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("./img/bakrunninfo.jpg");
     text-shadow: 0px 0px 1px black;
     background-repeat:no-repeat;
     background-position:50% 50%;
